@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Library System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="principle">Principle</string>
+    <string name="aboutproject"><h1>\t\t The project title is ‘Library Management System’ for monitoring and controlling the transactions in a library.This project is developed with android in java,which mainly focuses on basic operations in a library like adding new members,new books and reviewing book information and searching books and authors  and facility to borrow and return book.Users can give feedback.Our software is easy to use for both librarian and readers.</h1>\n</string>
+    <string name="develop">\n\t\tDeveloped by</string>
+    <string name="kname">\n\t Ma Khin Phyo Wai\t\t\t\t4CS-27</string>
+    <string name="nname">\t Ma Nan Ei Hlaing\t\t\t\t4CS_11</string>
+    <string name="ename">\t Ma Ei Ei Htay\t\t\t\t\t\t\t\t4CS-15</string>
+    <string name="tname">\t Ma Khin Thandar Tun\t\t4CS-7</string>
+    <string name="cname">\t Ma Nyein Chan May\t	\t\t4CS-25</string>
+    <string name="zname">\t Ma Zin Mar Htet\t\t\t\t\t4CS-2</string>
+</resources>
+
